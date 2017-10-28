@@ -4,23 +4,23 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/pic_viewer"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/ic_photo_size_select_actual_black_24dp"
             android:title="Picture Viewer" />
         <item
             android:id="@+id/fireworks"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_grain_black_24dp"
             android:title="Fireworks" />
         <item
             android:id="@+id/movie"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_ondemand_video_black_24dp"
             android:title="Movie" />
         <item
             android:id="@+id/text_speech"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_hearing_black_24dp"
             android:title="Text to Speech" />
         <item
             android:id="@+id/speech_text"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_mic_none_black_24dp"
             android:title="Speech to Text" />
     </group>
 
